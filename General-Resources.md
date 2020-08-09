@@ -1,5 +1,6 @@
 # General Resources
 - https://free-for.dev/ (Compilation of free services for developers)
+- https://books.goalkicker.com/ Goal Kicker free programming books
 - https://www.codecademy.com/ (Learn coding for free. Has a pro membership for people to apply their coding skills)
 
 ## Shareable IDEs
