@@ -1,5 +1,6 @@
 # General Resources
 - https://free-for.dev/ (Compilation of free services for developers)
+- https://github.com/DamourYouKnow/learn-javascript Learn JavaScript
 
 ## Shareable IDEs
 - https://jsfiddle.net/ for frontend only coding.
